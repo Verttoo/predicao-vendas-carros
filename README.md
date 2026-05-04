@@ -22,3 +22,6 @@ O projeto culmina em uma **Aplicação Web Interativa (Dashboard)** onde o time 
 1. Clone este repositório.
 2. Instale as dependências executando: `pip install -r requirements.txt`
 3. Navegue até a pasta Dashboard e rode o servidor web: `streamlit run app.py`
+
+## 📊 Streamlit
+Acesso ao dashboard: https://predicao-vendas-carros-utjqjhmcqchj4k4dug3mdb.streamlit.app/
